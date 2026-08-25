@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1787679400 source:d:\downloads\first file c++\classinhert\main.cpp
-	<iostream>
-	<Person.h>
-
-1787679134 d:\downloads\first file c++\classinhert\include\person.h
-	<iostream>
-
